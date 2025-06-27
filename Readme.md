@@ -20,5 +20,5 @@ I developed a Bash script that displayed key system stats every 10 minutes, incl
 
 After completing the mandatory tasks perfectly, I went further by:
 
-Hosting a WordPress site with lighttpd and MariaDB.
-Installing Fail2ban
+- Hosting a WordPress site with lighttpd and MariaDB.
+- Installing Fail2ban
