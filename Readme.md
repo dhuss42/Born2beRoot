@@ -26,14 +26,14 @@ I developed a Bash script that displayed key system stats every 10 minutes, incl
 
 After completing the mandatory tasks perfectly, I went further by impleting the following services.
 
-WordPress
+### WordPress
 WordPress is an open-source content management system that allows you to build and manage websites or blogs easily through a user-friendly web interface. In the project, I deployed WordPress to create a simple dynamic website hosted on my server.
 
-lighttpd
+### lighttpd
 lighttpd is a lightweight, high-performance web server optimized for speed-critical environments. It uses minimal resources compared to heavier web servers like Apache, making it a good choice for serving websites on low-powered systems or virtual machines. In this project, I configured lighttpd to serve my WordPress site efficiently.
 
-MariaDB
+### MariaDB
 MariaDB is an open-source relational database management system. It’s widely used with web applications to store and manage data such as website content or user information. In this project, I used MariaDB to store the database for my WordPress installation, ensuring reliable and fast data access.
 
-Fail2Ban
+### Fail2Ban
 Fail2Ban is a security tool that scans log files for suspicious activity, like repeated failed login attempts, and automatically updates firewall rules to ban offending IP addresses. This helps protect services such as SSH or web servers from brute-force attacks. In my project, I installed and configured Fail2Ban to secure my server from unauthorized access attempts.
